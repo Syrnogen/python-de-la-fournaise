@@ -1,7 +1,5 @@
 from random import *
 
-d = "bonk"
-
 
 def aleatoire(nb1, nb2):
     return randint(nb1, nb2)
