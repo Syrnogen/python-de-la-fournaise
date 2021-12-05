@@ -9,3 +9,5 @@ val1 = int(input("ouais : "))
 val2 = int(input("ouais ouais :"))
 
 print(aleatoire(val1, val2))
+
+print("aaaaaaaaaaaaaaaaaaa")
