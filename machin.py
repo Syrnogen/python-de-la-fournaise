@@ -1,5 +1,7 @@
 from random import *
 
+d = "bonk"
+
 
 def aleatoire(nb1, nb2):
     return randint(nb1, nb2)
@@ -10,4 +12,4 @@ val2 = int(input("ouais ouais :"))
 
 print(aleatoire(val1, val2))
 
-print("aaaaaaaaaaaaaaaaaaa")
+print("aaaaaaaaaaaa")
