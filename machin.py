@@ -1,6 +1,6 @@
 from random import *
 
-theo = "oui"
+theo = "non"
 
 
 def aleatoire(nb1, nb2):
