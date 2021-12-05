@@ -6,4 +6,6 @@ def aleatoire(nb1, nb2):
 
 
 val1 = int(input("ouais : "))
-val2 = int(input("ouais 2 :"))
+val2 = int(input("ouais ouais :"))
+
+print(aleatoire(val1, val2))
